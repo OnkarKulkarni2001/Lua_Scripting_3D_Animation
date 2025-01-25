@@ -1,1 +1,0 @@
-Press F11 for playing scene! I have implemented only question 1 and 2 as I was not able to figure out why the scripts were not working after that, even after using same scripts🥲 Tried debugging 4+ hours on that part but no results.
