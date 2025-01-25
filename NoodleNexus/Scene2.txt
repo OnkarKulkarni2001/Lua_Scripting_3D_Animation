@@ -1,0 +1,7 @@
+AddParallelCommand('SET_CAMERA', 'camera',  -400.0, 0.0, -220.0, 0.01)
+AddSerialCommand('FOLLOW_CURVE', 'falcon', -6800.0, 0.0, -220.0, -5670.0, 0.0, -1800.0, -4470.0, 0.0, 1800.0, -3270.0, 0.0, -220.0, 2.5)
+AddSerialCommand('FOLLOW_CURVE', 'falcon', -3270.0, 0.0, -220.0, -2070.0, 0.0, -800.0, -1870.0, 0.0, -1000.0, -400.0, 0.0, -220.0, 2.5)
+AddParallelCommand('FOLLOW_OBJECT', 'tieFighter', 'falcon', -80.0, 220.0, 60.0, 1.0)
+AddParallelCommand('FOLLOW_OBJECT', 'tieFighter2', 'falcon', -46.0, 160.0, -10.0, 1.0)
+AddParallelCommand('FOLLOW_OBJECT', 'tieFighter3', 'falcon', -135.0, -360.0, 180.0, 1.0)
+AddParallelCommand('FOLLOW_OBJECT', 'tieFighter4', 'falcon', -10.0, -90.0, -160.0, 1.0)
