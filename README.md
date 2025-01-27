@@ -2,3 +2,4 @@
 This is a LUA scripting project which shows rigid body animations in my own custom game engine developed in OpenGL, GLFW, GLAD
 
 Press F11 for playing scene!
+[Watch the Video](Explaination.mp4)
